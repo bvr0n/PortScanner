@@ -44,4 +44,4 @@ Optional arguments:
 ```
 ### Example :
 
-![Alt text](https://raw.githubusercontent.com/bvr0n/PortScanner/main/demo/demo.gif)
+![Alt text](https://raw.githubusercontent.com/bvr0n/PortScanner/main/demo/result.gif)
