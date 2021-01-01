@@ -16,7 +16,7 @@
                       @bvr0n
 ```
 
-> PortScanner is a simple & fast TCP port scanner written in python.
+> PortScanner is a simple & fast TCP port scanner written in python, this way you can easily grab all open ports and scan them in nmap for running services.
 
 # Installation :
 
